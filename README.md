@@ -10,7 +10,7 @@ If you have feeds with corrupt feed XML's which have any chracters before the `<
 ## Installation
 
 Just download the Zip file from this repository and extract it to the `<WEBROOT>/ttrss/plugins` folder.
-Be sure to name the folder `xml_start_tag_reader`. After that go to the Tiny Tiny RSS preferences and enable
+Be sure to name the folder `xml_start_tag_cleaner`. After that go to the Tiny Tiny RSS preferences and enable
 the plugin.
 
 ## Issues and Questions
